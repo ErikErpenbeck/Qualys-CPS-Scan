@@ -1,5 +1,4 @@
 #
-# Author: Sean Nicholson
 # Purpose: Run a cloud perimeter scan using Qualys external scanners
 #
 #----------------------------------------------------------
